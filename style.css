@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 0;
+    
+    background:linear-gradient(#f5c73e 20%, white 50%, green 100%); ;
+}
+.Creator_name {
+    text-align: right;
+    margin-left: 800px;
+}
+#orange {
+    color: orange;
+}
+#white {
+    color: white;
+}
+#green {
+    color: green;
+}
